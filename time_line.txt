@@ -1,0 +1,8 @@
+01 - Full Cycle, estudo de caso e microsserviços [ https://www.youtube.com/watch?v=DOpBE-3UWnk ]
+48:18 instalação GO
+
+[
+    go mod init github.com/codeedu/imersao5-gateway
+
+    go test
+]
